@@ -46,3 +46,6 @@ They have recently acquired 5 acres of field outside the town and will be settin
 
 ### Template Used
 [html5! Template / Solid State](https://html5up.net/solid-state)
+
+### Required Features
+* Mobile first
