@@ -49,3 +49,23 @@ They have recently acquired 5 acres of field outside the town and will be settin
 
 ### Required Features
 * Mobile first
+
+## Header / Navbar
+1.	Homepage (about us, mission, text, images)
+2.	Main attractions (in homepage)
+3.	Trip schedule (redirects to 10 and 11)
+4.	Events/book trips (redirects to 8 and 9)
+5.	Plan my trip (redirects to 13 and 14)
+
+##Footer
+6.	How to find us
+7.	Book a trip/create an account form
+8.	Social media links
+
+##Detailed features - linkable pages
+9.	Activities/events for kids
+10.	Booking trip slots/rental services
+11.	Trips/activities by adventure level
+12.	Monthly schedule
+13.	Map, route, directions, places to visit
+14.	Accommodation  
