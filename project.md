@@ -43,3 +43,6 @@ They have recently acquired 5 acres of field outside the town and will be settin
 * Search feature highlights - Adventure levels / Family Friendly / Price / Location / Group Size / Season
 * Image grid background showing large scenic landscapes
 * Earthy tones 
+
+### Template Used
+[html5! Template / Solid State](https://html5up.net/solid-state)
