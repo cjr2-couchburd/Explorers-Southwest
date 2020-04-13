@@ -72,9 +72,21 @@ They have recently acquired 5 acres of field outside the town and will be settin
 
 --
 
-# Changes to be made as of 13/04
-* Content added in full
-* Removal of .spotlight.stlye3
-* Addition of a call to action in the header
-* Header finished
-* Icon edited
+## Completed
+
+* Matrix [A]
+* Comparison [A]
+* Icon [W]
+* Footer [W]
+* Site setup [C]
+* Project.md maintenance [C]
+
+--
+
+## Changes to be made as of 13/04
+* Content added in full [Everyone]
+* Header finished [C/W]
+* Removal of .spotlight.stlye3 [C]
+* Addition of a call to action in the header [C]
+* Wireframe [W]
+* Additional copy written [A]
