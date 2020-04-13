@@ -57,15 +57,24 @@ They have recently acquired 5 acres of field outside the town and will be settin
 4.	Events/book trips (redirects to 8 and 9)
 5.	Plan my trip (redirects to 13 and 14)
 
-##Footer
+## Footer
 6.	How to find us
 7.	Book a trip/create an account form
 8.	Social media links
 
-##Detailed features - linkable pages
+## Detailed features - linkable pages
 9.	Activities/events for kids
 10.	Booking trip slots/rental services
 11.	Trips/activities by adventure level
 12.	Monthly schedule
 13.	Map, route, directions, places to visit
 14.	Accommodation  
+
+--
+
+# Changes to be made as of 13/04
+* Content added in full
+* Removal of .spotlight.stlye3
+* Addition of a call to action in the header
+* Header finished
+* Icon edited
